@@ -1,16 +1,55 @@
-# React + Vite
+## 📋 Task Management App – Intermediate React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🖼️ Preview Screenshot
 
-Currently, two official plugins are available:
+![Task-Management](./screenshot.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Objective
 
-## React Compiler
+Build an intermediate-level React application that demonstrates routing, form handling, and table management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 Suggested Project
 
-## Expanding the ESLint configuration
+Task Management App – A productivity tool for creating, editing, viewing, and organizing tasks.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+## 🔀 Routing with React Router DOM
+
+- Home Page: Displays all tasks in a table
+- Create Task Page: Form to add new tasks
+- Edit Task Page: Modify existing tasks
+- Delete Task: Remove tasks from the list
+
+## 📝 Form Handling
+
+- Form validation for task creation and editing
+- Custom hooks to manage form state and validation logic
+  
+## 📦 Data Management
+
+- Tasks stored in local state or persisted using localStorage
+  
+## 📊 Table Component
+
+- Tabular display of tasks with columns like Title, Status, and Due Date
+- Sorting and filtering capabilities
+  
+## 🔍 Pagination and Search
+
+- Paginate task list for better readability
+- Search bar to quickly find tasks by title or description
+  
+## 🎯 Outcome
+
+A fully functional task management app that showcases:
+- React Router for navigation
+- Controlled forms with validation
+- Dynamic table rendering
+- Pagination and search logic
+- Local data persistence
+
+🌐 Live Demo
+
+-  Task-Management [Website View] :  
+- Vercel Deployment : 
+
