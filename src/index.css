@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body {
+  background: transparent !important;
+}
+
+.btn {
+  @apply px-4 py-2 rounded shadow transition transform;
+}
+.btn-blue {
+  @apply bg-indigo-600 text-white hover:bg-indigo-700 hover:scale-105;
+}
+.btn-green {
+  @apply bg-green-600 text-white hover:bg-green-700 hover:scale-110;
+}
+.btn-red {
+  @apply bg-red-600 text-white hover:bg-red-700 hover:scale-110;
+}
+.btn-gray {
+  @apply bg-gray-300 text-black hover:bg-gray-400;
+}
+
