@@ -2,7 +2,7 @@
 
 ## 🖼️ Preview Screenshot
 
-![Task-Management](./screenshot.jpg)
+![Task-Management](https://github.com/Lokistark/Task-Management/blob/main/Screenshot%202025-11-14%20231306.png)
 
 ## 🧠 Objective
 
@@ -50,6 +50,6 @@ A fully functional task management app that showcases:
 
 🌐 Live Demo
 
--  Task-Management [Website View] :  
-- Vercel Deployment : 
+-  Task-Management [Website View] :  https://lokistark.github.io/Task-Management/
+- Vercel Deployment : https://task-manage-liard.vercel.app/login
 
